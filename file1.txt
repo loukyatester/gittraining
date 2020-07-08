@@ -1,0 +1,2 @@
+This is training file
+We are practicing git
